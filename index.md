@@ -1,8 +1,13 @@
 ## Introducing Melody Hero
 
-You can use the [editor on GitHub](https://github.com/pervezn/MelodyHero.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Do you like the idea of Guitar Hero, but never could get into to the music? Melody Hero let's you play your favortie song in a mobile desktop game! Play your favorite songs on the go with Melody Hero!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contatct
+Nida Pervez:Nidapervez2020@u.northwestern.edu
+Alex van der Heijden: vdhalex@u.northwestern.edu
+David Wolff: davidwolff2020@u.northwestern.edu 
+
+Machine Perception of Audio and Music Northwestern University Professor Bryan Pardo
 
 ### Motivation
   Melody Hero was inspired by a game that all three of us enjoy playing: Guitar Hero. The ability to interact with a game while playing songs was appealing to all of us, but we all agreed that the music choice for Guitar Hero was not for everyone. Another downfall to Guitar Hero was that you could only play it on a console, meaning that it lacked mobility. To combat those two restrictive measures of Guitar Hero, we came up with the idea Melody Hero. Melody Hero allows users to play a game similar to Guitar Hero, but with any song of their choice and anywhere! 
@@ -16,22 +21,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Results
 ....
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
