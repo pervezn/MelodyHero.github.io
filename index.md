@@ -2,7 +2,7 @@
 
 Do you like the idea of Guitar Hero, but never could get into to the music? Melody Hero let's you play your favortie song in a mobile desktop game! Play your favorite songs on the go with Melody Hero!
 
-# Contatct
+#### Contatct
 Nida Pervez:Nidapervez2020@u.northwestern.edu
 Alex van der Heijden: vdhalex@u.northwestern.edu
 David Wolff: davidwolff2020@u.northwestern.edu 
