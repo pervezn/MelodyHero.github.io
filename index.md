@@ -21,7 +21,7 @@ Machine Perception of Audio and Music Northwestern University Professor Bryan Pa
 ### Results
 ....
 
-![](https://github.com/pervezn/MelodyHero.github.io/pic0.png)
+![](pic0.png)
 ![](https://github.com/pervezn/MelodyHero.github.io/pic1.png)
 ![](https://github.com/pervezn/MelodyHero.github.io/pic2.png)
 ![](https://github.com/pervezn/MelodyHero.github.io/pic3.png)
