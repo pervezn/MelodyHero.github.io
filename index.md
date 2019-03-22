@@ -29,8 +29,10 @@ Machine Perception of Audio and Music Northwestern University Professor Bryan Pa
 
 ### Results
   While working on our project, we quickly found that the project we had in mind would have to be scaled down for our specific time frame. For those reasons, we mainly focused on being able to play any of the songs in the Medley database. However, the algorithms still work on any song, but to get the best outcome, we recommend using monophonic .wav files. In terms of checking its performance, we mainly focused on user-testing to see if the game felt like an actual game. After testing multiple users, we took into account their feedback and implemented the respective changes. Overall, from our user feedback, we know that it feels like a game, and that there are enough prominent notes to piece together the song. In terms of Justin Salamon’s pitch tracking algorithm, we acknowledge that the pitch tracker is not completely accurate and has flaws in it of itself, so we also found flaws in our pitches. We got our onsets using librosa, but we also found that our onsets were also sometimes flawed. Pitch tracking is already very difficult to perfect and despite Melodia being one of the best pitch trackers in the market, it is still not perfect.
+  
 ![](includes.png)
 This is the pitch tracker including all negative frequencies
+
 ![](Omitting.png)
 This is the pitch tracker omitting all negative frequencies
 
@@ -43,4 +45,9 @@ This is the pitch tracker omitting all negative frequencies
 ![](pic1.png)
 ![](pic2.png)
 ![](pic3.png)
+
+
+### References 
+https://github.com/justinsalamon/melodia_python_tutorial/blob/master/melodia_python_tutorial.ipynb
+https://github.com/ksalehi/PianoHero
 
