@@ -26,7 +26,7 @@ Machine Perception of Audio and Music Northwestern University Professor Bryan Pa
 
 ![](user1.jpg)
 ![](user2.jpg)
-<video width="320" height="240" controls>
+<video width="650" height="500" controls>
   <source src="usergameplay.mp4" type="video/mp4">
 </video>
 
