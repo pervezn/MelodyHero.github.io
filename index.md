@@ -26,6 +26,8 @@ Machine Perception of Audio and Music Northwestern University Professor Bryan Pa
 
 ![](user1.jpg)
 ![](user2.jpg)
+
+  Here, we have a user attempt to play the melody of "Lion Sleeps Tonight" by The Tokens!
 <video width="650" height="500" controls>
   <source src="usergameplay.mp4" type="video/mp4">
 </video>
